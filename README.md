@@ -1,8 +1,8 @@
-# Resume Builder 
+# Almabetter Resume Builder 
 
-## Build your resume with us and land on your dream job .
+## This is the Free Online Resume Builder Website that will help you to create wonderful resumes  .
 
-### This app helps you to build your resume with some of the choosen templates, you can even customise your resume based on your requirements. 
+### You will get two HR approved Resume templetes . 
 
 ### Technologies that are used in this project.
   <ul>

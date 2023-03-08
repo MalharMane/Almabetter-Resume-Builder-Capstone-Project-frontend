@@ -14,7 +14,7 @@
      $ npm install
      $ npm start
 
-### Technologies that are used in this project.
+### Technologies used .
   <ul>
     <li>React</li> 
     <li>Material UI, for UI</li>  

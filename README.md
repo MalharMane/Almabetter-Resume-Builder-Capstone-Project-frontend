@@ -26,7 +26,7 @@
   </ul>
   
  ### Contributors - 
- ### Solo Project - Malhar Mane 
+ ### Individual Project - Malhar Mane 
   
 
  

@@ -55,7 +55,7 @@ export default function ButtonMUI() {
           </Typography>
           <Stack>
             <img
-              src="https://resumion.com/static/media/builder.a54b992d.svg"
+              src="https://www.visualcv.com/static/67fb7346de03f735bcf1b48751bb8b19/e3663/CV_Examples_2x.png"
               alt="img"
             />
           </Stack>
